@@ -1,67 +1,43 @@
 <div align="center">
 
-<img src="./assets/profile-loop.gif" alt="jmita2288-debug — XTOYBOX development" width="100%" />
-
-<br/>
-
 # jmita2288-debug
 
-**Desenvolvendo experiências para Android, TV, iOS e Web.**
+**Desenvolvedor independente focado em projetos ligados a streaming, Remote Play, interfaces e experiência de uso.**
 
-<p>
-  <a href="https://xtoybox.cloud"><strong>XTOYBOX</strong></a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/jmita2288-debug?tab=repositories">Repositórios</a>
-  &nbsp;•&nbsp;
-  <a href="https://discord.gg/abh27Dwktt">Comunidade</a>
-</p>
+[Site](https://xtoybox.cloud) • [Discord](https://discord.gg/abh27Dwktt) • [GitHub](https://github.com/jmita2288-debug?tab=repositories)
 
 </div>
 
 ---
 
-## Sobre
+## Sobre mim
 
-Trabalho principalmente no desenvolvimento e evolução do **XTOYBOX**, com foco em streaming, Remote Play, interface, desempenho, estabilidade e navegação por controle.
+Sou desenvolvedor independente e trabalho principalmente na evolução do **XTOYBOX**.
 
-Também desenvolvo versões e ferramentas do projeto para diferentes plataformas, mantendo uma identidade simples e consistente entre Android, TV, iOS e Web.
+Gosto de melhorar interface, organização visual, desempenho, estabilidade e navegação, sempre buscando deixar os projetos mais bonitos, úteis e consistentes para quem usa.
+
+Também venho desenvolvendo novas versões e ideias para diferentes plataformas, mantendo a identidade do projeto de forma simples e profissional.
 
 ---
 
-## XTOYBOX
-
-<table>
-<tr>
-<td width="110" align="center">
-
-<img src="./assets/xtoybox-icon.svg" width="82" alt="Ícone original do XTOYBOX" />
-
-</td>
-<td>
+## Projeto em destaque
 
 ### XTOYBOX
 
-Projeto independente voltado para experiências remotas no ecossistema Xbox, com **Remote Play, streaming, biblioteca de jogos, controles e integração com a conta**.
+O **XTOYBOX** é o principal projeto em que trabalho atualmente.
 
-[**Site oficial**](https://xtoybox.cloud) · [**Baixar APK**](https://xtoybox.cloud/api/download) · [**Releases**](https://github.com/jmita2288-debug/xtoybox-apk-download/releases)
+É nele que concentro boa parte do meu tempo, cuidando de interface, streaming, Remote Play, navegação por controle, otimizações e evolução geral da experiência do app.
 
-</td>
-</tr>
-</table>
+[**Site oficial**](https://xtoybox.cloud) · [**Baixar APK**](https://xtoybox.cloud/api/download) · [**Comunidade**](https://discord.gg/abh27Dwktt)
 
-<p>
-  <img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Fjmita2288-debug%2Fxtoybox-apk-download%2Fmain%2Fpublic%2Fdownload-badge.json" alt="Downloads do XTOYBOX" />
-</p>
+---
 
-### Ecossistema
+## Projetos
 
-**XTOYBOX Android** — aplicativo principal com streaming, Remote Play, biblioteca, perfil e controles.
-
-**XTOYBOX-TV** — versão dedicada para TV Box e Smart TV, com navegação pensada para controle físico e telas maiores.
-
-**XTOYBOX iOS** — adaptação do projeto para iPhone com estrutura própria para iOS.
-
-**XTOYBOX Web** — site oficial, downloads, releases e informações para a comunidade.
+- **XTOYBOX** — meu principal projeto.
+- **xtoybox-apk-download** — meu primeiro projeto publicado no GitHub.
+- **XTOYBOX-TV** — versão pensada para TV Box e Smart TV.
+- **XTOYBOX-IOS** — adaptação do projeto para iPhone.
 
 ---
 
@@ -97,24 +73,17 @@ Projeto independente voltado para experiências remotas no ecossistema Xbox, com
 
 ---
 
-## Em desenvolvimento
+## Atualmente
 
-- melhorias de streaming e Remote Play;
-- otimizações de desempenho e estabilidade;
-- navegação por controle físico e experiência para TV;
-- desenvolvimento da versão para iOS;
-- ferramentas web, distribuição e automações com GitHub Actions.
+- evoluindo o XTOYBOX;
+- trabalhando em novas versões para outras plataformas;
+- melhorando interface, desempenho e estabilidade;
+- organizando melhor meus projetos e minha base de código.
 
 ---
 
 <div align="center">
 
-<img src="./assets/xtoybox-icon.svg" width="58" alt="XTOYBOX" />
-
-### XTOYBOX
-
-**Jogue. Conecte. Continue de onde estiver.**
-
-[Site](https://xtoybox.cloud) · [GitHub](https://github.com/jmita2288-debug) · [Discord](https://discord.gg/abh27Dwktt)
+**Obrigado por visitar meu perfil.**
 
 </div>
