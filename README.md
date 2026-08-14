@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jmita2288-debug/jmita2288-debug/main/assets/profile-loop.gif" alt="jmita2288-debug — XTOYBOX development" width="100%" />
-
-<br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJueHBwNzRheThxdXR3bW84ZnN0eGRiMjVvZXpsYTdwaTV6cWJsYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="360" />
 
 # jmita2288-debug
 
