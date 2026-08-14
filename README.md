@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-loop.gif" alt="jmita2288-debug — XTOYBOX development" width="100%" />
+<img src="https://raw.githubusercontent.com/jmita2288-debug/jmita2288-debug/main/assets/profile-loop.gif" alt="jmita2288-debug — XTOYBOX development" width="100%" />
 
 <br/>
 
@@ -34,7 +34,7 @@ Também desenvolvo versões e ferramentas do projeto para diferentes plataformas
 <tr>
 <td width="110" align="center">
 
-<img src="./assets/xtoybox-icon.svg" width="82" alt="Ícone original do XTOYBOX" />
+<img src="https://raw.githubusercontent.com/jmita2288-debug/xtoybox-apk-download/main/public/favicon.svg" width="82" alt="Ícone original do XTOYBOX" />
 
 </td>
 <td>
@@ -109,7 +109,7 @@ Projeto independente voltado para experiências remotas no ecossistema Xbox, com
 
 <div align="center">
 
-<img src="./assets/xtoybox-icon.svg" width="58" alt="XTOYBOX" />
+<img src="https://raw.githubusercontent.com/jmita2288-debug/xtoybox-apk-download/main/public/favicon.svg" width="58" alt="XTOYBOX" />
 
 ### XTOYBOX
 
