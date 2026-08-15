@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Technology matrix">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop stop-color="#64ff4a"/><stop offset="1" stop-color="#b7ff69"/></linearGradient>
+    <linearGradient id="scan" x1="0" x2="1"><stop stop-color="#64ff4a" stop-opacity="0"/><stop offset=".5" stop-color="#64ff4a" stop-opacity=".7"/><stop offset="1" stop-color="#64ff4a" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.label{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:700;fill:#f0f6fc;font-size:17px}.sub{font-family:Inter,Segoe UI,Arial,sans-serif;fill:#7d8a82;font-size:12px}.node{fill:#101712;stroke:#2b3b30;stroke-width:1.3}.link{stroke:#243329;stroke-width:1.3}</style>
+  </defs>
+  <rect width="1200" height="560" rx="28" fill="#0b0f0d"/>
+  <rect x="1" y="1" width="1198" height="558" rx="27" fill="none" stroke="#26312b"/>
+  <text x="54" y="60" fill="#64ff4a" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" letter-spacing="4">TECH MATRIX</text>
+  <text x="54" y="95" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800">Linguagens que aparecem nos meus projetos</text>
+  <text x="54" y="124" fill="#7d8a82" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">mobile • web • automação • renderização • iOS</text>
+  <g class="link" opacity=".85"><path d="M230 220L426 220M426 220L606 220M606 220L790 220M790 220L982 220"/><path d="M230 368L426 368M426 368L606 368M606 368L790 368M790 368L982 368"/><path d="M426 220L426 368M790 220L790 368M606 220L606 368"/></g>
+  <g transform="translate(120 174)"><rect class="node" width="220" height="92" rx="18"/><circle cx="34" cy="34" r="12" fill="#3178c6"/><text class="label" x="58" y="39">TypeScript</text><text class="sub" x="24" y="70">app / web / iOS base</text></g>
+  <g transform="translate(356 174)"><rect class="node" width="220" height="92" rx="18"/><circle cx="34" cy="34" r="12" fill="#f7df1e"/><text class="label" x="58" y="39">JavaScript</text><text class="sub" x="24" y="70">runtime / UI / web</text></g>
+  <g transform="translate(592 174)"><rect class="node" width="220" height="92" rx="18"/><circle cx="34" cy="34" r="12" fill="#3776ab"/><text class="label" x="58" y="39">Python</text><text class="sub" x="24" y="70">scripts / tooling</text></g>
+  <g transform="translate(828 174)"><rect class="node" width="220" height="92" rx="18"/><circle cx="34" cy="34" r="12" fill="#e76f00"/><text class="label" x="58" y="39">Java</text><text class="sub" x="24" y="70">Android native</text></g>
+  <g transform="translate(120 322)"><rect class="node" width="220" height="92" rx="18"/><circle cx="34" cy="34" r="12" fill="#f05138"/><text class="label" x="58" y="39">Swift</text><text class="sub" x="24" y="70">iOS native</text></g>
+  <g transform="translate(356 322)"><rect class="node" width="220" height="92" rx="18"/><circle cx="34" cy="34" r="12" fill="#0b5a9d"/><text class="label" x="58" y="39">Objective-C</text><text class="sub" x="24" y="70">iOS bridge</text></g>
+  <g transform="translate(592 322)"><rect class="node" width="220" height="92" rx="18"/><circle cx="34" cy="34" r="12" fill="#cc342d"/><text class="label" x="58" y="39">Ruby</text><text class="sub" x="24" y="70">build / scripts</text></g>
+  <g transform="translate(828 322)"><rect class="node" width="220" height="92" rx="18"/><circle cx="34" cy="34" r="12" fill="#5586a4"/><text class="label" x="58" y="39">GLSL</text><text class="sub" x="24" y="70">graphics / shaders</text></g>
+  <g transform="translate(120 450)"><text x="0" y="0" fill="#6e7b72" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="3">CORE STACK</text><text x="140" y="0" fill="#c4cec8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">React Native · Node.js · Android · Vite · Tailwind · GitHub Actions</text><rect x="0" y="28" width="928" height="3" rx="2" fill="#172019"/><rect x="-180" y="28" width="180" height="3" rx="2" fill="url(#scan)" filter="url(#glow)"><animate attributeName="x" values="-180;928" dur="4.4s" repeatCount="indefinite"/></rect></g>
+</svg>
