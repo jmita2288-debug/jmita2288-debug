@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="jmita2288-debug">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#64ff4a" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#64ff4a"/>
+      <stop offset="55%" stop-color="#b7ff69"/>
+      <stop offset="100%" stop-color="#64ff4a" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="150" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="998" height="148" rx="17" fill="none" stroke="#26312b"/>
+  <text x="500" y="65" fill="#f0f6fc" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="34" font-weight="700">jmita2288-debug</text>
+  <text x="500" y="101" fill="#8b949e" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="16" letter-spacing="2">STREAMING  •  REMOTE PLAY  •  INTERFACES  •  XTOYBOX</text>
+  <rect y="124" width="220" height="3" rx="2" fill="url(#g)" filter="url(#glow)">
+    <animate attributeName="x" values="-220;1000" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+  <circle cy="126" r="3" fill="#79ff4d">
+    <animate attributeName="cx" values="0;1000" dur="3.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
