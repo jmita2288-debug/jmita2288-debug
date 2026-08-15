@@ -1,89 +1,133 @@
 <div align="center">
 
-# jmita2288-debug
+<img src="./IMG_2275.jpeg" width="170" alt="XTOYBOX" />
 
-**Desenvolvedor independente focado em projetos ligados a streaming, Remote Play, interfaces e experiência de uso.**
+<br/><br/>
 
-[Site](https://xtoybox.cloud) • [Discord](https://discord.gg/abh27Dwktt) • [GitHub](https://github.com/jmita2288-debug?tab=repositories)
+<img src="./assets/profile-title.svg" width="100%" alt="jmita2288-debug — streaming, Remote Play, interfaces e XTOYBOX" />
+
+<img src="./assets/profile-scan.gif" width="100%" height="18" alt="animated accent" />
+
+<br/>
+
+<a href="https://xtoybox.cloud"><strong>xtoybox.cloud</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://discord.gg/abh27Dwktt"><strong>Discord</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/jmita2288-debug?tab=repositories"><strong>Projetos</strong></a>
 
 </div>
 
----
+<br/>
 
 ## Sobre mim
 
-Sou desenvolvedor independente e trabalho principalmente na evolução do **XTOYBOX**.
+Sou desenvolvedor independente e hoje concentro boa parte do meu trabalho no **XTOYBOX**.
 
-Gosto de melhorar interface, organização visual, desempenho, estabilidade e navegação, sempre buscando deixar os projetos mais bonitos, úteis e consistentes para quem usa.
+Gosto de pegar uma ideia, testar no uso real e ir melhorando aos poucos — principalmente **interface, streaming, Remote Play, desempenho, estabilidade e navegação por controle**.
 
-Também venho desenvolvendo novas versões e ideias para diferentes plataformas, mantendo a identidade do projeto de forma simples e profissional.
+Meu primeiro projeto público foi o **xtoybox-apk-download**. Desde então, o XTOYBOX acabou virando o centro do que venho construindo para Android, TV, Web e agora iOS.
 
----
+<br/>
 
-## Projeto em destaque
+<div align="center">
+  <img src="./assets/profile-scan.gif" width="72%" height="18" alt="divider" />
+</div>
 
-### XTOYBOX
+## XTOYBOX
 
-O **XTOYBOX** é o principal projeto em que trabalho atualmente.
+<table>
+<tr>
+<td width="180" align="center">
+  <img src="./IMG_2275.jpeg" width="135" alt="XTOYBOX original" />
+</td>
+<td>
 
-É nele que concentro boa parte do meu tempo, cuidando de interface, streaming, Remote Play, navegação por controle, otimizações e evolução geral da experiência do app.
+**Meu projeto principal.**
 
-[**Site oficial**](https://xtoybox.cloud) · [**Baixar APK**](https://xtoybox.cloud/api/download) · [**Comunidade**](https://discord.gg/abh27Dwktt)
+É onde trabalho nas ideias que mais gosto: experiência de streaming, Remote Play, interface, controles, otimizações e versões para diferentes dispositivos.
 
----
+<a href="https://xtoybox.cloud"><strong>Site oficial</strong></a>
+&nbsp;·&nbsp;
+<a href="https://xtoybox.cloud/api/download"><strong>Baixar APK</strong></a>
+&nbsp;·&nbsp;
+<a href="https://discord.gg/abh27Dwktt"><strong>Comunidade</strong></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Projetos
 
-- **XTOYBOX** — meu principal projeto.
-- **xtoybox-apk-download** — meu primeiro projeto publicado no GitHub.
-- **XTOYBOX-TV** — versão pensada para TV Box e Smart TV.
-- **XTOYBOX-IOS** — adaptação do projeto para iPhone.
+<table>
+<tr>
+<td><strong>XTOYBOX</strong></td>
+<td>projeto principal</td>
+</tr>
+<tr>
+<td><strong>xtoybox-apk-download</strong></td>
+<td>meu primeiro projeto publicado</td>
+</tr>
+<tr>
+<td><strong>XTOYBOX-TV</strong></td>
+<td>versão dedicada para TV</td>
+</tr>
+<tr>
+<td><strong>XTOYBOX-IOS</strong></td>
+<td>versão em desenvolvimento para iPhone</td>
+</tr>
+</table>
 
----
+<br/>
 
 ## Tecnologias
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" title="React / React Native" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40" alt="Android" title="Android" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" title="Vite" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React" title="React / React Native" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" height="44" alt="Java" title="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="44" height="44" alt="Android" title="Android" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="44" height="44" alt="Vite" title="Vite" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="44" height="44" alt="GitHub Actions" title="GitHub Actions" />
 </p>
 
-`TypeScript` · `JavaScript` · `React` · `React Native` · `Node.js` · `Java` · `Android` · `HTML/CSS` · `Vite` · `Tailwind CSS` · `GitHub Actions`
+<p align="center">
+  <code>TypeScript</code> · <code>JavaScript</code> · <code>React</code> · <code>React Native</code> · <code>Node.js</code> · <code>Java</code> · <code>Android</code> · <code>HTML/CSS</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>GitHub Actions</code>
+</p>
 
----
+<br/>
 
-## Atualmente
+## No momento
 
-- evoluindo o XTOYBOX;
-- trabalhando em novas versões para outras plataformas;
-- melhorando interface, desempenho e estabilidade;
-- organizando melhor meus projetos e minha base de código.
-
----
+```text
+XTOYBOX        ███████████████████░  evoluindo
+XTOYBOX-TV     ██████████████░░░░░░  refinando
+XTOYBOX-IOS    ██████░░░░░░░░░░░░░░  em desenvolvimento
+```
 
 <div align="center">
 
-**Obrigado por visitar meu perfil.**
+<img src="./assets/profile-scan.gif" width="100%" height="18" alt="animated accent" />
+
+<sub>Construindo, testando e melhorando um pouco a cada versão.</sub>
 
 </div>
