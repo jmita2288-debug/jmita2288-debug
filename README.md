@@ -102,7 +102,7 @@ As linguagens que mais aparecem na base dos meus projetos são **TypeScript, Jav
   <sub>Android</sub>
 </td>
 <td align="center" width="120">
-  <img src="./assets/iphone.svg" width="36" height="36" alt="iPhone / iOS" /><br/>
+  <img src="./assets/apple.svg" width="36" height="36" alt="Apple / iOS" /><br/>
   <sub>iPhone / iOS</sub>
 </td>
 <td align="center" width="120">
