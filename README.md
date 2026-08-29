@@ -34,7 +34,7 @@ Gosto de trabalhar de forma prática: testar, corrigir o que incomoda no uso rea
 
 ## Linguagens
 
-As linguagens que mais aparecem nos meus projetos são **TypeScript, JavaScript, Java, Python e GLSL**. No desenvolvimento para iOS também trabalho com **Swift e Objective-C**.
+As linguagens que mais aparecem na base dos meus projetos são **TypeScript, JavaScript, Java, Python e GLSL**. Também uso **XML, HTML e CSS** nas partes Android e web, além de **Swift e Objective-C** no desenvolvimento para iOS.
 
 <table>
 <tr>
@@ -58,28 +58,71 @@ As linguagens que mais aparecem nos meus projetos são **TypeScript, JavaScript,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="38" height="38" alt="GLSL" /><br/>
   <sub>GLSL</sub>
 </td>
+</tr>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="38" height="38" alt="XML" /><br/>
+  <sub>XML</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" /><br/>
+  <sub>HTML</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" /><br/>
+  <sub>CSS</sub>
+</td>
 <td align="center" width="110">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="38" height="38" alt="Swift" /><br/>
   <sub>Swift</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" width="38" height="38" alt="Objective-C" /><br/>
+  <sub>Objective-C</sub>
 </td>
 </tr>
 </table>
 
 ## Tecnologias e ferramentas
 
+### Plataformas e runtime
+
 <table>
 <tr>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React / React Native" /><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React Native" /><br/>
   <sub>React Native</sub>
+</td>
+<td align="center" width="120">
+  <img src="./assets/webrtc.svg" width="36" height="36" alt="WebRTC" /><br/>
+  <sub>WebRTC</sub>
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="36" height="36" alt="Android" /><br/>
+  <sub>Android</sub>
+</td>
+<td align="center" width="120">
+  <img src="./assets/iphone.svg" width="36" height="36" alt="iPhone / iOS" /><br/>
+  <sub>iPhone / iOS</sub>
+</td>
+<td align="center" width="120">
+  <img src="./assets/tv.svg" width="36" height="36" alt="TV" /><br/>
+  <sub>TV / TV Box</sub>
 </td>
 <td align="center" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /><br/>
   <sub>Node.js</sub>
 </td>
+</tr>
+</table>
+
+### Desenvolvimento e build
+
+<table>
+<tr>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="36" height="36" alt="Android" /><br/>
-  <sub>Android</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="36" height="36" alt="Gradle" /><br/>
+  <sub>Gradle</sub>
 </td>
 <td align="center" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" /><br/>
@@ -90,13 +133,21 @@ As linguagens que mais aparecem nos meus projetos são **TypeScript, JavaScript,
   <sub>Tailwind CSS</sub>
 </td>
 <td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="36" height="36" alt="Cloudflare" /><br/>
+  <sub>Cloudflare</sub>
+</td>
+<td align="center" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions" /><br/>
   <sub>GitHub Actions</sub>
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" /><br/>
+  <sub>Git</sub>
 </td>
 </tr>
 </table>
 
-Também fazem parte do meu fluxo: **WebRTC, React, Git, GitHub, Gradle, Yarn/npm, ESLint, Prettier e Jest**.
+Também fazem parte do meu fluxo **React, React Navigation, Redux, TanStack, Yarn/npm, ESLint, Prettier e Jest**.
 
 ---
 
