@@ -157,10 +157,6 @@ Também fazem parte do meu fluxo **React, React Navigation, Redux, TanStack, Yar
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=jmita2288-debug&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681" height="145" alt="Sequência de contribuições no GitHub" />
 
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/3fb950/jmita2288-debug" width="100%" alt="Calendário de contribuições do GitHub" />
-
 </div>
 
 ---
