@@ -149,6 +149,20 @@ As linguagens que mais aparecem na base dos meus projetos são **TypeScript, Jav
 
 Também fazem parte do meu fluxo **React, React Navigation, Redux, TanStack, Yarn/npm, ESLint, Prettier e Jest**.
 
+## Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jmita2288-debug&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=8b949e&icon_color=3fb950&title_color=f0f6fc" height="145" alt="Estatísticas públicas do GitHub" />
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=jmita2288-debug&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681" height="145" alt="Sequência de contribuições no GitHub" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/3fb950/jmita2288-debug" width="100%" alt="Calendário de contribuições do GitHub" />
+
+</div>
+
 ---
 
 <div align="center">
