@@ -1,0 +1,28 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # todos os dias, 00:00 UTC
+  workflow_dispatch: # permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Usa o token do próprio Actions. Se os cards saírem vazios ou o job der erro
+          # de permissão, crie um token pessoal (leitura) e salve como o segredo
+          # SUMMARY_GITHUB_TOKEN em Settings > Secrets and variables > Actions.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: -3 # horário de Brasília
+          THEME: "radical" # gera só este tema, em profile-summary-card-output/radical/
